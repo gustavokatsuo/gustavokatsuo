@@ -13,7 +13,7 @@ Minha jornada é impulsionada pela busca de *soluções de alto impacto* na inte
 | Área de Foco | Detalhe | Contribuição |
 | :--- | :--- | :--- |
 | **Inteligência Artificial** | Machine Learning, Deep Learning. | Otimização em Big Data e Iniciação Científica com Deep Learning para aprimoramento de tomografias com nêutrons. |
-| **Cibersegurança** | Análise de Vulnerabilidades, Engenharia Reversa (C/Assembly). | Membro ativo do **IME Sec** e em busca de conhecimento em DevSecOps. |
+| **Cibersegurança** | Análise de Vulnerabilidades, Engenharia Reversa (C/Assembly). | Membro ativo do **IMEsec** e em busca de conhecimento em DevSecOps. |
 | **Finanças Quantitativas** | Algoritmos de trading e modelagem de risco. | União de ML com o mercado financeiro. |
 | **Desenvolvimento Web** | HTML, CSS, JAVASCRIPT, DJANGO, SQL, HTMX e UI | Projeto do curso de Desenvolvimento Web do USPCodeLab. |
 

@@ -35,7 +35,7 @@ Sou sempre aberto a conversas sobre colaboração em pesquisa, oportunidades de 
 
 E-mail: katsuo.gustavo@usp.br
 
-LinkedIn**[https://www.linkedin.com/in/gustavokatsuo/]**
+LinkedIn: https://www.linkedin.com/in/gustavokatsuo/
 
 
 ---

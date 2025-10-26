@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gustavo Katsuo Tsutsui
 
-<!--
-**gustavokatsuo/gustavokatsuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Ciência da Computação no IME-USP em busca de inovação.**
 
-Here are some ideas to get you started:
+Sou apaixonado por transformar dados em insights e por construir o futuro da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Minhas Habilidades e Interesses
+
+| Área | Tecnologias Chave | Conexão com a USP |
+| :--- | :--- | :--- |
+| **Data Science & ML** | Python, Dask, Pandas | Iniciação Científica (Deep Learning) e FEA.dev|
+| **Cibersegurança** | Fundamentos de Web Hacking, Engenharia Reversa | Membro do IME Sec |
+| **Finanças Quants** | Análise de Dados, Estratégia de Trading | Desafio Quant AI, FEA.dev |
+| **Linguagens** | Python, C, Assembly, HTML/CSS/JS | |
+
+**[https://www.linkedin.com/in/gustavokatsuo/]**

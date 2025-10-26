@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 Interseção de Conhecimento
+### 🧠 Interesse em Conhecimento
 
 Minha jornada é impulsionada pela busca de *soluções de alto impacto* na interseção entre a pesquisa por conhecimentos e a aplicação prática em grandes desafios do mercado.
 
@@ -19,7 +19,7 @@ Minha jornada é impulsionada pela busca de *soluções de alto impacto* na inte
 
 ---
 
-### 💻 Minhas Ferramentas de Batalha (Stack)
+### 💻 Minhas Ferramentas de Batalha
 
 | Categoria | Ferramentas e Linguagens |
 | :--- | :--- |

@@ -33,7 +33,7 @@ Minha jornada é impulsionada pela busca de *soluções de alto impacto* na inte
 
 Sou sempre aberto a conversas sobre colaboração em pesquisa, oportunidades de mercado e, claro, qualquer coisa sobre JDM e modificações de carros!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](**[https://www.linkedin.com/in/gustavokatsuo/]**)
-[![Email](https://img.shields.io/badge/Email-Entre%20em%20Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katsuo.gustavo@usp.br)
+[![LinkedIn](**[https://www.linkedin.com/in/gustavokatsuo/]**)
+[![Email](katsuo.gustavo@usp.br)
 
 ---
